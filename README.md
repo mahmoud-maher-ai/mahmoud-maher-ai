@@ -1,6 +1,6 @@
 #  Hi, I'm Mahmoud Maher
 
-An aspiring **Artificial Intelligence & Computer Vision Engineer**, currently in my second year of Computer Science [cite: Source: Gemini Chat. Evidence: The user explicitly stated انا دلوقتي لسه في تانية and ك طالب في كلية الحاسبات والمعلومات هتخصص ان شاء الله في قسم ال Ai. Date: 2026-06.]. I focus on developing smart systems using Deep Learning and advanced Computer Vision models.
+An **Artificial Intelligence & Computer Vision Engineer**, currently studying at the Faculty of Artificial Intelligence with a specialization in the AI Department. I focus on developing smart systems using Deep Learning and advanced Computer Vision models.
 
 ---
 
